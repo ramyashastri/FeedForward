@@ -1,4 +1,4 @@
-#Description
+#Description - 
 FeedForward is a modern web application designed to streamline disaster relief efforts by connecting donors, volunteers, and organizations. The platform enables real-time coordination, resource management, and transparent donation tracking.
 
 #Features
